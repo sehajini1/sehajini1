@@ -1,5 +1,5 @@
 
-<a href="#"><img width="300px" height="auto" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" height="175px"/></a>
+<a style="center" href="#"><img width="300px" height="auto" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sehajini Jayakody</h1>
 <h3 align="center">I'm an undergraduate student at University of Moratuwa.</h3>
@@ -15,7 +15,7 @@
 
 - 📫 Ask me about **React**
 
-- 👨‍💻 I regulary write articles on **[www.medium.com/@sehajini](www.medium.com/@sehajini)**
+- 👨‍💻 I regulary write articles on **[www.medium.com/@sehajini](https://sehajinitharushika97.medium.com/)**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
