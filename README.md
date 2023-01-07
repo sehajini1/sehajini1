@@ -3,7 +3,7 @@ git branch -M main
 git push -u origin main -->
 
 
-<a align="center" style="center" href="#"><img width="300px" height="auto" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif" height="175px"/></a>
+<a align="center" style="center" href="#"><img width="300px" height="auto" align="center" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sehajini Jayakody</h1>
 <h3 align="center">I'm an undergraduate student at University of Moratuwa.</h3>
