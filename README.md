@@ -2,7 +2,9 @@
 git branch -M main
 git push -u origin main -->
 
-<p align="center"><a align="center" style="center" href="#"><img width="300px" height="auto" align="center" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif" height="175px"/></a></p>
+<p align="center"><a align="center" style="center" href="#"><img width="300px" height="auto" align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectfinance.io%2Fonline-and-mobile-support&psig=AOvVaw2-eGu0aU5V0dIwJ0LAf5os&ust=1673161772772000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCi0LrztPwCFQAAAAAdAAAAABBA" height="175px"/></a></p>
+
+<!-- https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sehajini Jayakody</h1>
 <h3 align="center">I'm an undergraduate student at University of Moratuwa.</h3>
