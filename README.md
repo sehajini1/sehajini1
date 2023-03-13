@@ -36,7 +36,7 @@ git push -u origin main -->
 
 <p align="left">
     <p>Programming Languages</p>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="50px"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="80px"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <p>Frontend Development</p>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -48,7 +48,6 @@ git push -u origin main -->
     <p>Backend Development</p>
     <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="postman" width="45" height="45"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://i0.wp.com/chelseatroy.com/wp-content/uploads/2015/09/spring.png?fit=340%2C340&ssl=1" alt="postman" width="45" height="45"/> </a>
-    <a><img src="https://i0.wp.com/chelseatroy.com/wp-content/uploads/2015/09/spring.png?fit=340%2C340&ssl=1" width="50px"/></a>
     <p>Database</p>
     <a href="" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/> </a>
     <!-- <a style="padding-right:8px;" href="" target="_blank">  </a> -->
