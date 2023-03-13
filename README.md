@@ -46,20 +46,23 @@ git push -u origin main -->
     <a href="https://sass-lang.com/documentation/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="postman" width="45" height="45"/> </a>
     <p>Backend Development</p>
-    <a href="https://go.dev/doc/" target="_blank"><img src="https://img.icons8.com/color/48/000000/golang.png"/></a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a>
     <a><img src="https://i0.wp.com/chelseatroy.com/wp-content/uploads/2015/09/spring.png?fit=340%2C340&ssl=1" width="50px"/></a>
     <p>Database</p>
     <a href="" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/> </a>
     <!-- <a style="padding-right:8px;" href="" target="_blank">  </a> -->
     <a  href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <p>Mobile Development</p>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/> </a>
     <a><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="50px"/></a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="postman" width="45" height="45"/> </a>
+    <!-- <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="postman" width="45" height="45"/> </a> -->
     <p>Others</p>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>   
-    <a><img src="https://img.icons8.com/color/50/000000/arduino.png"/></a>
-    <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px"/></a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/50/000000/arduino.png" alt="postman" width="45" height="45"/> </a>
+    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="postman" width="45" height="45"/> </a>  
+    <!-- <a><img src="https://img.icons8.com/color/50/000000/arduino.png"/></a>
+    <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px"/></a> -->
     
     
 
