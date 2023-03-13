@@ -36,7 +36,7 @@ git push -u origin main -->
 
 <p align="left">
     <p>Programming Languages</p>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="80px"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="60px"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <p>Frontend Development</p>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
