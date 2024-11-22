@@ -36,6 +36,7 @@
 ![SASS](https://img.shields.io/badge/Sass-333333?style=flat&logo=Sass)
 ![Next UI](https://img.shields.io/badge/Next.ui-333333?style=flat&logo=nextdotui)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![ChatJS](https://img.shields.io/badge/-ChartJS-333333?style=flat&logo=chart.js)
 
 #### 📋 Backend Development
 ![GO](https://img.shields.io/badge/Go-333333?style=flat&logo=Go)
@@ -58,8 +59,11 @@
 #### 📋 Others
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode)
 
 
 
