@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I listn to music often.**
 
 ## 🚀 Languages and Tools
-Frontend &nbsp;
+Frontend Development &nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 <p align="left">
     <p>Programming Languages</p>
