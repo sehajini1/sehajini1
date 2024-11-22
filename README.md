@@ -10,6 +10,7 @@
 
 
 📫 How to reach me **sehajinitharushika97@gmail.com**
+
 📚 I regularly write articles on **[Medium](https://sehajinitharushika97.medium.com/)**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
