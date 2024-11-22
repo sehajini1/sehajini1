@@ -56,23 +56,12 @@
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
 #### 📋 Others
-![Postman](https://img.shields.io/badge/-Postman-3333337?style=flat&logo=postman)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-<p align="left">
-    <p>Others</p>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60px"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="60px"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/50/000000/arduino.png" alt="postman" width="60px"/> </a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="postman" width="60px"/> </a>  
-    <!-- <a><img src="https://img.icons8.com/color/50/000000/arduino.png"/></a>
-    <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px"/></a> -->
-    
-    
 
-</p>
 
  <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
 <br/> -->
