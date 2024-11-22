@@ -45,16 +45,15 @@
 ![Node JS](https://img.shields.io/badge/node.js-333333?style=flat&logo=Node.js)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-333333?style=flat&logo=Spring)
 
+#### 📋 Database
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+#### 📋 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
 <p align="left">
-    <p>Database</p>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="60px"/> </a>
-    <!-- <a style="padding-right:8px;" href="" target="_blank">  </a> -->
-    <a  href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="60px"/> </a>
-    <p>Mobile Development</p>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="postman" width="60px"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60px"/> </a>
-    <!-- <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="postman" width="45" height="45"/> </a> -->
     <p>Others</p>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60px"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="60px"/> </a> 
