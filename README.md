@@ -13,13 +13,13 @@
 
 - 📫 Ask me about **React**
 
-- 👨‍💻 I regulary write articles on **[www.medium.com/@sehajini](https://sehajinitharushika97.medium.com/)**
+- 👨‍💻 I regularly write articles on **[www.medium.com/@sehajini](https://sehajinitharushika97.medium.com/)**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **sehajinitharushika97@gmail.com**
 
-- ⚡ Fun fact **I listn to music often.**
+- ⚡ Fun fact **I listen to music often.**
 
 ## 🚀 Languages and Tools
 #### 📋 Frontend Development
@@ -35,13 +35,18 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/Sass-333333?style=flat&logo=Sass)
 
+#### 📋 Programming Languages
+![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
+![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python)
+![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart)
+
+#### 📋 Backend Development
+![GO](https://img.shields.io/badge/Go-333333?style=flat&logo=Go)
+![Node JS](https://img.shields.io/badge/node.js-333333?style=flat&logo=Node.js)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-333333?style=flat&logo=Spring)
+
+
 <p align="left">
-    <p>Programming Languages</p>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="60px"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="60px"/> </a>
-    <p>Backend Development</p>
-    <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="postman" width="60px"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://i0.wp.com/chelseatroy.com/wp-content/uploads/2015/09/spring.png?fit=340%2C340&ssl=1" alt="postman" width="60px"/> </a>
     <p>Database</p>
     <a href="" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="60px"/> </a>
     <!-- <a style="padding-right:8px;" href="" target="_blank">  </a> -->
