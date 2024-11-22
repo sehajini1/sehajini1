@@ -1,7 +1,7 @@
 <p align="center"><a align="center" style="center" href="#"><img width="300px" height="auto" align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sehajini Jayakody</h1>
-<h3 align="center">I'm an undergraduate student at University of Moratuwa.</h3>
+<h3 align="center">Software Engineer</h3>
 
 ## 🙋‍♂️ About Me
 
