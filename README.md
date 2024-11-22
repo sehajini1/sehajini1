@@ -7,19 +7,15 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **SpringBoot**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 Ask me about **React**
-
-- 👨‍💻 I regularly write articles on **[www.medium.com/@sehajini](https://sehajinitharushika97.medium.com/)**
+📫 How to reach me **sehajinitharushika97@gmail.com**
+📚 I regularly write articles on **[Medium](https://sehajinitharushika97.medium.com/)**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **sehajinitharushika97@gmail.com**
 
-- ⚡ Fun fact **I listen to music often.**
+
 
 ## 🚀 Languages and Tools
 #### 📋 Frontend Development
