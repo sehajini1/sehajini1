@@ -33,7 +33,7 @@ git push -u origin main -->
 - ⚡ Fun fact **I listn to music often.**
 
 ## 🚀 Languages and Tools
-
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 <p align="left">
     <p>Programming Languages</p>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="60px"/> </a>
