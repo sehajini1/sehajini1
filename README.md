@@ -33,13 +33,13 @@ git push -u origin main -->
 - ⚡ Fun fact **I listn to music often.**
 
 ## 🚀 Languages and Tools
-
+<p>Front</p>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 <p align="left">
     <p>Programming Languages</p>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="60px"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="60px"/> </a>
     <p>Frontend Development</p>
-    ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="60px"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="60px"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="60px"/> </a>
