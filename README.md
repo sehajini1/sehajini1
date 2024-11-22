@@ -27,18 +27,18 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs)
+![React JS](https://img.shields.io/badge/react-333333?style=flat&logo=react)
+![Next JS](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css)
+![Shadcn](https://img.shields.io/badge/Shadcn-333333?style=flat&logo=shadcn)
+![Material UI](https://img.shields.io/badge/Material%20UI-333333?style=flat&logo=mui)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
+![SASS](https://img.shields.io/badge/Sass-333333?style=flat&logo=Sass)
+
 <p align="left">
     <p>Programming Languages</p>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="60px"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="60px"/> </a>
-    <p>Frontend Development</p>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="60px"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="60px"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="60px"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="60px"/> </a>
-    <a href="https://sass-lang.com/documentation/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png" width="60px"/> </a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="postman" width="60px"/> </a>
     <p>Backend Development</p>
     <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="postman" width="60px"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://i0.wp.com/chelseatroy.com/wp-content/uploads/2015/09/spring.png?fit=340%2C340&ssl=1" alt="postman" width="60px"/> </a>
