@@ -34,16 +34,18 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-333333?style=flat&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/Sass-333333?style=flat&logo=Sass)
-
-#### 📋 Programming Languages
-![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
-![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python)
-![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart)
+![Next UI](https://img.shields.io/badge/Next.ui-333333?style=flat&logo=nextdotui)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 
 #### 📋 Backend Development
 ![GO](https://img.shields.io/badge/Go-333333?style=flat&logo=Go)
-![Node JS](https://img.shields.io/badge/node.js-333333?style=flat&logo=Node.js)
+![Node JS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-333333?style=flat&logo=Spring)
+
+#### 📋 Programming Languages
+![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart)
 
 #### 📋 Database
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
@@ -52,6 +54,12 @@
 #### 📋 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+
+#### 📋 Others
+![Postman](https://img.shields.io/badge/-Postman-3333337?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <p align="left">
     <p>Others</p>
