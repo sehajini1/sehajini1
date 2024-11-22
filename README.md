@@ -1,15 +1,4 @@
-<!-- git remote add origin https://github.com/sehajini1/sehajini1.git
-git branch -M main
-git push -u origin main -->
-
 <p align="center"><a align="center" style="center" href="#"><img width="300px" height="auto" align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" height="175px"/></a></p>
-
-<!-- https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif 
-
--->
-<!-- https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif 
-
--->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sehajini Jayakody</h1>
 <h3 align="center">I'm an undergraduate student at University of Moratuwa.</h3>
@@ -33,7 +22,7 @@ git push -u origin main -->
 - ⚡ Fun fact **I listn to music often.**
 
 ## 🚀 Languages and Tools
-🌐 &nbsp;
+Frontend &nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 <p align="left">
     <p>Programming Languages</p>
