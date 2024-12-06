@@ -48,6 +48,7 @@
 #### 📋 Database
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 #### 📋 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
