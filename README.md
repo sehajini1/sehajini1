@@ -42,7 +42,7 @@
 
 #### 📋 Programming Languages
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
 ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart)
 
