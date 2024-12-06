@@ -34,6 +34,7 @@
 ![Next UI](https://img.shields.io/badge/Next.ui-333333?style=flat&logo=nextdotui)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![ChatJS](https://img.shields.io/badge/-ChartJS-333333?style=flat&logo=chart.js)
+![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=flat&logo=Socket.io)
 
 #### 📋 Backend Development
 ![GO](https://img.shields.io/badge/Go-333333?style=flat&logo=Go)
